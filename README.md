@@ -1,5 +1,5 @@
 # SecurityTools
-Vulnerability and Penetration Testing Tools (Information Security / Cyber security)
+Vulnerability Assessment and Penetration Testing Tools (Information Security / Cyber security)
 
 # License
 
