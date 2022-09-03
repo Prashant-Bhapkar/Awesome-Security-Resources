@@ -2,4 +2,4 @@
 
 ### 1) [Email-Checker.net](https://email-checker.net/)
 
-![Screenshot](/SecurityTools/Assets/email_checker.png)
+![Screenshot](/Assets/email_checker.png)
