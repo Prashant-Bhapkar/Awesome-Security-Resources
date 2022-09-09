@@ -26,7 +26,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/Digital-Forensic.git
+git clone https://github.com/this-is-you/Awesome-Security-Resources.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -36,7 +36,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd Digital-Forensic
+cd Awesome-Security-Resources
 ```
 
 Now create a branch using the `git checkout` command:
@@ -56,6 +56,9 @@ git checkout -b add-new-file
 ## Make necessary changes and commit those changes
 
 Now open add or edit file in a text editor. Add code for any existing algorithm in other language or add some new algorithms. Make sure to update correspond README.md file if needed. Now, save the file.
+
+- **Note:**
+Screenshot/Image size should be 1500 * 800
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
