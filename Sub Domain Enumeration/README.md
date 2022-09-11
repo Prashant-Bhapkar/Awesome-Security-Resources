@@ -4,3 +4,7 @@
 - [CRT.sh](https://crt.sh/)
 
 ![Screenshot](/Assets/crt.sh.png)
+
+- [SecurityTrails](https://securitytrails.com/)
+
+![Screenshot](/Assets/securitytrails.png)
