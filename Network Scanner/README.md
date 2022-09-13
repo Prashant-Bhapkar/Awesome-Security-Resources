@@ -1,2 +1,3 @@
 # Network Scanner
 - [nmap](https://github.com/nmap/nmap) -  Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. [@nmap](https://github.com/nmap/nmap)
+- [nikto](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/) - Nikto can perform comprehensive tests against web servers for multiple security threats, including over 6700 potentially dangerous files/programs.
