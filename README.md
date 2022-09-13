@@ -23,7 +23,8 @@
     - [nikto](/Network%20Scanner/README.md)
 
 # Always Welcome For Contribution!!
-Check the contribution [RULES](/CONTRIBUTING.md)    
+Check the [Code of Conduct](/CODE_OF_CONDUCT.md)<br> 
+Check the contribution [RULES](/CONTRIBUTING.md) 
 
 # License
 
