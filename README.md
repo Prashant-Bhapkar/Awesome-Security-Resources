@@ -19,6 +19,7 @@
     - [SecurityTrails](/Sub%20Domain%20Enumeration/README.md)
 - [Network Scanner](/Network%20Scanner/)
     - [nmap](/Network%20Scanner/README.md)
+    - [nikto](/Network%20Scanner/README.md)
 
 # License
 
