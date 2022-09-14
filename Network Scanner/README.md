@@ -3,3 +3,4 @@
 - [nikto](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/) - Nikto can perform comprehensive tests against web servers for multiple security threats, including over 6700 potentially dangerous files/programs.
 - [snort3](https://github.com/snort3/snort3) - Snort 3 is the next generation Snort IPS (Intrusion Prevention System.
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.[@rapid7](https://github.com/rapid7)
+- [Advanced Ip Scanner](https://www.advanced-ip-scanner.com/) - It is a free and open-source network scanning tool that works in a Windows environment. It can detect and scan any device on a network including wireless devices.[@Video](https://www.youtube.com/watch?v=ahgOYjdDZiE&ab_channel=TheTechnology)
