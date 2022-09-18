@@ -30,6 +30,7 @@
     - [XSS](/Attacks/README.md)
     - [SQL Injection](/Attacks/README.md)
     - [Clickjacking](/Attacks/README.md)
+    - [Session Hijacking](/Attacks/README.md)
 
 # Always Welcome For Contribution!!
 Check the [Code of Conduct](/CODE_OF_CONDUCT.md)<br> 
