@@ -37,7 +37,6 @@
     - [Uncover](/Search%20Engine/README.md)
 
 # Always Welcome For Contribution!!
-Check the [Code of Conduct](/CODE_OF_CONDUCT.md)<br> 
 Check the contribution [RULES](/CONTRIBUTING.md) 
 
 # License
