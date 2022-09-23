@@ -6,6 +6,8 @@
 
 - [SQL Injection](https://github.com/sqlmapproject/sqlmap) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. 
 [@Payload](https://github.com/payloadbox/sql-injection-payload-list)
+     - [Reference CVE]()
+        -   [2022](https://www.cvedetails.com/vulnerability-list/opsqli-1/sql-injection.html)
 
 - [Clickjacking](https://github.com/D4Vinci/Clickjacking-Tester) - Clickjacking is an attack that fools users into thinking they are clicking on one thing when they are actually clicking on another. 
 
