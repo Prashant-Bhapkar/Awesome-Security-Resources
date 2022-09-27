@@ -58,7 +58,7 @@ git checkout -b add-new-file
 Now open add or edit file in a text editor. Add code for any existing algorithm in other language or add some new algorithms. Make sure to update correspond README.md file if needed. Now, save the file.
 
 - **Note:**
-Screenshot/Image size should be 1500 * 800
+If there are any Screenshot/Image then size should be 1500 * 800 
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
