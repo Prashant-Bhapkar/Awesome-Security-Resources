@@ -14,6 +14,8 @@
         -   [2017](https://cwe.mitre.org/data/definitions/1021.html)
 
 - [Session Hijacking](https://github.com/OWASP/www-project-web-security-testing-guide/blob/master/v41/4-Web_Application_Security_Testing/06-Session_Management_Testing/03-Testing_for_Session_Fixation.md) - In these cases, vulnerable web applications authenticate users without first destroying existing sessions associated with said users. This allows attackers to access users' accounts by hijacking their active sessions. 
+     - [Reference CVE]()
+        -   [2021](https://hackerone.com/reports/1201396)
 
 - [Web Cache Poisoning](https://portswigger.net/web-security/web-cache-poisoning) - Cache poisoning is a type of cyber attack in which attackers insert fake information into a domain name system (DNS) cache or web cache for the purpose of harming users.
 
