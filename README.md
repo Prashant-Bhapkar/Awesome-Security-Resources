@@ -1,5 +1,11 @@
-# Awesome Security Resources
+# Awesome Security Resources 🛡️
 > 🛠 Vulnerability Assessment and Penetration Testing Tools
+
+# HACKTOBERFEST-2022 🚀
+> Add at least two valuable resources
+
+# 💡Always Welcome For Contribution!!
+Check the contribution [RULES](/CONTRIBUTING.md) 
 
 ## Content
 
@@ -40,9 +46,6 @@
  
 - [Search Engine]()
     - [Uncover](/Search%20Engine/README.md)
-
-# Always Welcome For Contribution!!
-Check the contribution [RULES](/CONTRIBUTING.md) 
 
 # License
 
