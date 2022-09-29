@@ -7,6 +7,7 @@
 - [Session Hijacking](https://github.com/OWASP/www-project-web-security-testing-guide/blob/master/v41/4-Web_Application_Security_Testing/06-Session_Management_Testing/03-Testing_for_Session_Fixation.md) - In these cases, vulnerable web applications authenticate users without first destroying existing sessions associated with said users. This allows attackers to access users' accounts by hijacking their active sessions. 
      - [Reference CVE]()
         -   [2021](https://hackerone.com/reports/1201396)
+        -   [2021](https://www.cvedetails.com/cve/CVE-2021-36320/)
 
 - [SQL Injection](https://github.com/sqlmapproject/sqlmap) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. 
 [@Payload](https://github.com/payloadbox/sql-injection-payload-list)
