@@ -1,14 +1,14 @@
 # Sub Domain Enumeration
 
-- [AssetFinder](https://github.com/tomnomnom/assetfinder) -  Find domains and subdomains potentially related to a given domain by [@tomnomnom](https://github.com/tomnomnom)
+- [Altdns](https://github.com/infosec-au/altdns) - Altdns is a security tool to discover subdomains by [@infosec-au](https://github.com/infosec-au)
 
--[Altdns](https://github.com/infosec-au/altdns) - Altdns is a security tool to discover subdomains by [@infosec-au] (https://github.com/infosec-au)
+- [AssetFinder](https://github.com/tomnomnom/assetfinder) -  Find domains and subdomains potentially related to a given domain by [@tomnomnom](https://github.com/tomnomnom)
 
 - [CRT.sh](https://crt.sh/)
 
 ![Screenshot](/Assets/crt.sh.png)
 
--[Domain](https://github.com/jhaddix/domain) - It allows to use the two tool one multiple domains within the same session, combine two tools Recon-ng and altdns by [@Jhaddix](https://github.com/jhaddix)
+- [Domain](https://github.com/jhaddix/domain) - It allows to use the two tool one multiple domains within the same session, combine two tools Recon-ng and altdns by [@Jhaddix](https://github.com/jhaddix)
 
 - [SecurityTrails](https://securitytrails.com/)
 
