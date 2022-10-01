@@ -16,4 +16,4 @@
 
 - [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is a real-time network protocol analyzer that continuously scans network traffic for vulnerabilities and suspicious activities. [@wireshark](https://github.com/wireshark)
 
--[Angrpy IP Scanner](https://angryip.org) - Angry IP Scanner (or simply ipscan) is an open-source and cross-platform network scanner designed to be fast and simple to use. [@angryip](https://github.com/angryip/ipscan)
+- [Angrpy IP Scanner](https://angryip.org) - Angry IP Scanner (or simply ipscan) is an open-source and cross-platform network scanner designed to be fast and simple to use. [@angryip](https://github.com/angryip/ipscan)
