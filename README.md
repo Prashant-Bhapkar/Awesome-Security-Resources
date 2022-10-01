@@ -37,6 +37,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [OWASP ZAP](/Network%20Scanner/README.md)
     - [Snort3](/Network%20Scanner/README.md)
     - [Wireshark](/Network%20Scanner/README.md)
+    - [Angry IP Scanner](/Network%20Scanner/README.md)
  
 - [Vulnerability Attacks](/Attacks/README.md)
     - [Clickjacking](/Attacks/README.md)
