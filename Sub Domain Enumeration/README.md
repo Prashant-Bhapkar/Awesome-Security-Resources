@@ -14,3 +14,5 @@
 [@ProjectDiscovery](https://github.com/projectdiscovery)
 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) -  Sublist3r is a multi-threaded sub-domain enumeration tool for penetration testers by [@aboul3la](https://github.com/aboul3la)
+
+- [Altdns](https://github.com/infosec-au/altdns) - Altdns is a security tool to discover subdomain  which generates permutations, alterations, and mutations of subdomains [@infosec-au](https://github.com/infosec-au)
