@@ -1,5 +1,4 @@
-# Awesome Security Resources 🛡️
-> 🛠 Vulnerability Assessment and Penetration Testing Tools
+![](GitHubPreview.png)
 
 # HACKTOBERFEST-2022 🚀
 > Add at least two valuable resources
