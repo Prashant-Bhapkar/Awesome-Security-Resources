@@ -2,6 +2,8 @@
 
 - [Altdns](https://github.com/infosec-au/altdns) - Altdns is a security tool to discover subdomains by [@infosec-au](https://github.com/infosec-au)
 
+- [Amass](https://github.com/OWASP/Amass) - We can also find subdomain using Amass by [@OWASP](https://github.com/OWASP/Amass)
+
 - [AssetFinder](https://github.com/tomnomnom/assetfinder) -  Find domains and subdomains potentially related to a given domain by [@tomnomnom](https://github.com/tomnomnom)
 
 - [CRT.sh](https://crt.sh/)
