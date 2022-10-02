@@ -15,3 +15,5 @@
 - [Snort3](https://github.com/snort3/snort3) - Snort 3 is the next generation Snort IPS (Intrusion Prevention System.
 
 - [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is a real-time network protocol analyzer that continuously scans network traffic for vulnerabilities and suspicious activities. [@wireshark](https://github.com/wireshark)
+
+- [Angry IP scanner](https://github.com/angryip/ipscan) - It is an open-source and cross-platform network scanner designed to be fastest and simplest GUI based IP scanner. [@website](https://angryip.org/)
