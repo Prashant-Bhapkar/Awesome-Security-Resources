@@ -1,7 +1,7 @@
 ![](GitHubPreview.png)
 
 # HACKTOBERFEST-2022 🚀
-> Add at least two valuable resources
+> Add valuable resources that will help the community.
 
 # 💡Always Welcome For Contribution!!
 Check the contribution [RULES](/CONTRIBUTING.md) 
