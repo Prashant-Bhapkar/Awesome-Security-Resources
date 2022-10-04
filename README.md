@@ -51,7 +51,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
 
 ## Free Learning Resources
 
-- [Cyber Security Courses]()
+- [Cyber Security Courses](/Free%20Learning%20Resources/Cyber%20Security%20Courses/README.md)
 
 
 # License
