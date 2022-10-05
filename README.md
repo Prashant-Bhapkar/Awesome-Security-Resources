@@ -12,6 +12,8 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [Discover Email Address](/Email%20Address/Discover%20Email%20Address/)
         - [Hunter.io](/Email%20Address/Discover%20Email%20Address/README.md)
         - [PhoneBook.cz](/Email%20Address/Discover%20Email%20Address/README.md)
+        - [theHarvester](/Email%20Address/Discover%20Email%20Address/README.md)
+        - [KnockMail](/Email%20Address/Discover%20Email%20Address/README.md)
     - [Verify Email Address](/Email%20Address/Verify%20Email%20Address/)
         - [Email-Checker.net](/Email%20Address/Verify%20Email%20Address/README.md)
         
