@@ -48,6 +48,18 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [Web Cache Poisoning](/Attacks/README.md)
     - [XSS](/Attacks/README.md)
 
+## Password Attacking Tools
+
+- [John the Ripper](/Password%20Attacking%20Tools/README.md)
+
+- [hashcat](/Password%20Attacking%20Tools/README.md)
+
+- [ H Y D R A](/Password%20Attacking%20Tools/README.md)
+
+- [ophcrack](/Password%20Attacking%20Tools/README.md)
+
+- [ncrack](/Password%20Attacking%20Tools/README.md)
+
 
 ## Free Learning Resources
 
