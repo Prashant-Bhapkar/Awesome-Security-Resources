@@ -52,20 +52,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
 ## Free Learning Resources
 
 - [Cyber Security Courses](/Free%20Learning%20Resources/Cyber%20Security%20Courses/README.md)
-
-## CTF Challenges
-
-- [Vulnhub](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [Itsecgames](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [Dvwa](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [Hackthissite](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [Defend the Web](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [Root-me](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [HackTheBox](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [Overthewire](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [Ctftime](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [TryHackMe](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
-- [PicoCTF](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
+- [CTF Challenge Resources]()
 
 
 # License
@@ -73,6 +60,6 @@ Check the contribution [RULES](/CONTRIBUTING.md)
 [MIT License](LICENSE)
 
 
-# Disclaimer
+## Disclaimer
 
 All the resources are for informational and educational purposes only. We believe that ethical hacking, information security and cyber security should be familiar subjects to anyone using digital information and computers. Don't misuse of the information and we strongly suggest against it. We do not promote, encourage, support or excite any illegal activity or hacking. We cannot be held responsible for any misuse of the given information.
