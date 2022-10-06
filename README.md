@@ -67,7 +67,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
 - [CTF Challenge Resources](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
 
 
-# License
+## License
 
 [MIT License](LICENSE)
 
