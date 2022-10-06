@@ -64,7 +64,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
 ## Free Learning Resources
 
 - [Cyber Security Courses](/Free%20Learning%20Resources/Cyber%20Security%20Courses/README.md)
-- [CTF Challenge Resources]()
+- [CTF Challenge Resources](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
 
 
 # License
