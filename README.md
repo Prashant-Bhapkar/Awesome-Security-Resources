@@ -28,6 +28,14 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [OWASP ZAP](/Network%20Scanner/README.md)
     - [Snort3](/Network%20Scanner/README.md)
     - [Wireshark](/Network%20Scanner/README.md)
+  
+- [Password Attacking Tools]()
+    - [Hashcat](/Password%20Attacking%20Tools/README.md)
+    - [Hydra](/Password%20Attacking%20Tools/README.md)
+    - [John the Ripper](/Password%20Attacking%20Tools/README.md)
+    - [Ncrack](/Password%20Attacking%20Tools/README.md)
+    - [Ophcrack](/Password%20Attacking%20Tools/README.md)
+    
     
 - [Search Engine]()
     - [Uncover](/Search%20Engine/README.md)
@@ -47,18 +55,6 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [SQL Injection](/Attacks/README.md)
     - [Web Cache Poisoning](/Attacks/README.md)
     - [XSS](/Attacks/README.md)
-
-## Password Attacking Tools
-
-- [John the Ripper](/Password%20Attacking%20Tools/README.md)
-
-- [hashcat](/Password%20Attacking%20Tools/README.md)
-
-- [ H Y D R A](/Password%20Attacking%20Tools/README.md)
-
-- [ophcrack](/Password%20Attacking%20Tools/README.md)
-
-- [ncrack](/Password%20Attacking%20Tools/README.md)
 
 
 ## Free Learning Resources
