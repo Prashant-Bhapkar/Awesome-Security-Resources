@@ -36,3 +36,9 @@
      - [Reference CVE]()
         -   [2021](https://www.cvedetails.com/vulnerability-list/year-2021/opxss-1/xss.html)
         
+- [CORS](https://0xn3va.gitbook.io/cheat-sheets/web-application/cors-misconfiguration) - Cross-origin resource sharing (CORS) is a browser mechanism which enables controlled access to resources located outside of a given domain. It extends and adds flexibility to the same-origin policy (SOP).
+[@cheatSheet](https://0xn3va.gitbook.io/cheat-sheets/web-application/cors-misconfiguration)
+[@practice](https://portswigger.net/web-security/cors)
+     - [Reference CVE]()
+          - [2021](https://security.netapp.com/advisory/ntap-20210318-0002/)
+        
