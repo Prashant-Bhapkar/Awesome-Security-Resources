@@ -41,6 +41,3 @@
 [@Practice](https://prompt.ml/0)
      - [Reference CVE]()
         -   [2021](https://www.cvedetails.com/vulnerability-list/year-2021/opxss-1/xss.html)
-        
-
-        
