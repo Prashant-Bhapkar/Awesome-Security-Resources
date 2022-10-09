@@ -18,6 +18,8 @@
 
 - [Snort3](https://github.com/snort3/snort3) - Snort 3 is the next generation Snort IPS (Intrusion Prevention System.
 
+- [Unicornscan](https://www.kali.org/tools/unicornscan/) - Unicornscan is an information gathering and port scanning tool like Nmap that provides asynchronous UDP and TCP scanning. It is a light-weight tool. [@Video](https://www.youtube.com/watch?v=X_DdYUeKS-o)
+
 - [WiFi Pumpkin](https://github.com/P0cL4bs/wifipumpkin3) - wifipumpkin3 is powerful framework for rogue access point attack, written in Python, that allow and offer to security researchers, red teamers and reverse engineers to mount a wireless network to conduct a man-in-the-middle attack.
 
 - [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is a real-time network protocol analyzer that continuously scans network traffic for vulnerabilities and suspicious activities. [@wireshark](https://github.com/wireshark)
