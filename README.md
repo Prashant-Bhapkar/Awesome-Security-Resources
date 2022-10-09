@@ -56,6 +56,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
  
 - [Vulnerability Attacks](/Attacks/README.md)
     - [Clickjacking](/Attacks/README.md)
+    - [CORS](/Attacks/README.md)
     - [IDOR](/Attacks/README.md)
     - [Local File Inclusion (LFI)](/Attacks/README.md)
     - [Session Hijacking](/Attacks/README.md)
@@ -66,8 +67,9 @@ Check the contribution [RULES](/CONTRIBUTING.md)
 
 ## Free Learning Resources
 
-- [Cyber Security Courses](/Free%20Learning%20Resources/Cyber%20Security%20Courses/README.md)
 - [CTF Challenge Resources](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
+- [Cyber Security Courses](/Free%20Learning%20Resources/Cyber%20Security%20Courses/README.md)
+- [Cyber Security News (Sites, Blogs, Feeds)](/Free%20Learning%20Resources/Cyber%20Security%20News/README.md)
 
 
 ## License
