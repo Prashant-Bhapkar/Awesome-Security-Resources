@@ -35,14 +35,14 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [Wireshark](/Network%20Scanner/README.md)
     - [WiFi Pumpkin](/Network%20Scanner/README.md)
   
-- [Password Attacking Tools]()
+- [Password Attacking Tools](/Password%20Attacking%20Tools/)
     - [Hashcat](/Password%20Attacking%20Tools/README.md)
     - [Hydra](/Password%20Attacking%20Tools/README.md)
     - [John the Ripper](/Password%20Attacking%20Tools/README.md)
     - [Ncrack](/Password%20Attacking%20Tools/README.md)
     - [Ophcrack](/Password%20Attacking%20Tools/README.md)
     
-- [Search Engine]()
+- [Search Engine](/Search%20Engine/)
     - [Uncover](/Search%20Engine/README.md)
     
 - [Sub Domain Enumeration](/Sub%20Domain%20Enumeration/)
