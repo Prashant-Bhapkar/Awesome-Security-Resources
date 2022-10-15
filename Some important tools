@@ -1,0 +1,165 @@
+Footprinting and Recon :-
+1. wget
+2. whois
+3. Traceroute
+4. Maltego
+5. OSINT
+6. theharvester
+7. Shodan
+8. Whatweb
+9. Wappalyzer
+10. Sublist3r
+11. subdomain finder
+12. netdiscover
+13. Google Dorks
+14. Spiderfoot
+
+Scanning :-
+1. Nmap
+2. Angry IP Scanner
+3. Ping
+4. Colasoft Packet Builder (for Windows only)
+5. Pentest-tools
+6. IP Serve (for Windows only)
+7. Netcraft
+8. Netcat
+9. Nmap Scripting Engine
+10. Nessus
+11. Nikto
+12. OpenVAS
+13. WPScan
+14. Network Topology Mapper
+15. Spiceworks Netork Mapping tool
+16. LAN State pro
+17. Advanced IP Scanner
+18. Httprecon
+19. ID Serve
+20. Uniscan
+21. masscan
+22. Super Scan
+23. Global Network Identifier
+24. Httrack
+25. Path Analyser Pro
+26. NetBios Enumerator
+27. enum4linux
+
+Enumeration :-
+1. NetBIOS Enumeration
+2. SMB Enumeration
+3. SNMP Enumeration
+4. LDAP Enumeration
+5. SMTP Enumeration
+6. DNS Enumeration
+7. nslookup
+8. dig
+
+System Hacking :-
+1. Crunch
+2. Hashcat
+3. John the ripper
+4. Hydra
+5. RainbowCrack
+6. Cain and Winrtgen (for windows)
+7. Web Browser Passview and Wireless KeyView (for password extraction)
+8. Active Directory
+9. Metasploit
+10. Searchsploit
+11. Mimikatz
+12. All-in-one Keylogger
+13. Spytech Spyagent
+14. Stinger
+15. Unhackme
+16. GMER
+17. QuickStego
+18. Deepsound
+19. Omnihide
+20. Steghide
+21. CCleaner
+22. MRU-Blaster
+23. Stream Armor
+24. LADS and ADSSpy (Detect streams)
+25. Skipfish
+26. OphCrack
+27. Pwdump7
+28. LOphtCrack
+29. Responder
+30. psexec
+31. wmic
+
+Malwares :-
+1. Bintext
+2. Pestudio
+3. HxD
+4. Exeinfope
+5. HashCalc
+6. Jps Virus maker
+7. Internet Worm maker thing
+8. Sonic Bat
+9. Virustotal
+10. AntiScan.Me
+
+Sniffing and Spoofing :-
+1. arpspoof
+2. dsniff
+3. dnsspoof
+4. Wireshark
+5. macchanger
+6. Ettercap
+7. XArp ( ARP Spoofing Detection)
+8. tcpdump
+
+Social Engineering :-
+1. PhishTank
+2. Netcraft Extension
+3. SEToolkit
+
+Denial of Service :-
+1. hping3
+2. LOIC
+3. Ping
+4. Slowloris
+5. rudy
+6. HOIC
+
+Session Hijacking :-
+1. shijack
+2. hping3
+
+Cryptography :-
+1. Hashcalc
+2. Cryptoforge
+3. BCtext Encoder
+4. Advanced Encryption Package
+5. Hashmyfiles
+
+IDS tools :-
+1. Snort
+
+Honeypots :-
+1. HoneyBot (for Windows only)
+2. Github Pentbox
+
+Wireless Pentesting :-
+1. Wifi inspector
+2. Wigle.net
+3. Aircrack-ng
+4. Airgeddon
+
+Cloud Computing :-
+1. OwnCloud
+
+Android Pentesting :-
+1. adb
+2. dexdump
+3. dj-dex2jar
+4. jd-gui
+
+Digital Forensics :-
+1. Autopsy
+2. FTK Imager
+3. Guymager
+4. dd
+5. dcfldd
+6. foremost
+7. bulk_extractor
+8. ncase (to open xml report)
