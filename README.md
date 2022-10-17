@@ -65,6 +65,11 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [Web Cache Poisoning](/Attacks/README.md)
     - [XSS](/Attacks/README.md)
 
+- [Directory Bruteforce tools]
+    - [Gobuster](https://www.kali.org/tools/gobuster/)
+    - [DirBuster](https://www.kali.org/tools/dirbuster/)
+    - [Dirsearch](https://github.com/maurosoria/dirsearch)
+
 
 ## Free Learning Resources
 
