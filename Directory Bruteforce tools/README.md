@@ -1,4 +1,4 @@
-## Directory Bruteforce tools
+## Directory Bruteforce Tools
 
 - [Gobuster](https://www.kali.org/tools/gobuster/)
 - [DirBuster](https://www.kali.org/tools/dirbuster/)
