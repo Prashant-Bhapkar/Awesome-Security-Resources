@@ -71,8 +71,6 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [XSS](/Attacks/README.md)
 
 
-
-
 ## Free Learning Resources
 
 - [CTF Challenge Resources](/Free%20Learning%20Resources/CTF%20Challenge%20Resources/README.md)
