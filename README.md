@@ -8,6 +8,11 @@ Check the contribution [RULES](/CONTRIBUTING.md)
 
 ## Vulnerability Assesment and Penetration Testing
 
+- [Directory Bruteforce Tools](/Directory%20Bruteforce_Tools/README.md)
+    - [Gobuster](/Directory%20Bruteforce_Tools/README.md)
+    - [DirBuster](/Directory%20Bruteforce_Tools/README.md)
+    - [Dirsearch](/Directory%20Bruteforce_Tools/README.md)
+
 - [Email Address](/Email%20Address/)
     - [Discover Email Address](/Email%20Address/Discover%20Email%20Address/)
         - [Hunter.io](/Email%20Address/Discover%20Email%20Address/README.md)
@@ -16,7 +21,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
         - [TheHarvester](/Email%20Address/Discover%20Email%20Address/README.md)
     - [Verify Email Address](/Email%20Address/Verify%20Email%20Address/)
         - [Email-Checker.net](/Email%20Address/Verify%20Email%20Address/README.md)
-        
+
 - [Identify Web Technologies](/Identify%20Web%20Technology/)
     - [BuiltWith.com](/Identify%20Web%20Technology/README.md)
     - [Wappalyzer](/Identify%20Web%20Technology/README.md)
