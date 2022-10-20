@@ -8,10 +8,10 @@ Check the contribution [RULES](/CONTRIBUTING.md)
 
 ## Vulnerability Assesment and Penetration Testing
 
-- [Directory Bruteforce Tools](/Directory%20Bruteforce%20Tools/README.md)
-    - [Gobuster](/Directory%20Bruteforce%20Tools/README.md)
-    - [DirBuster](/Directory%20Bruteforce%20Tools/README.md)
-    - [Dirsearch](/Directory%20Bruteforce%20Tools/README.md)
+- [Directory Bruteforce Tools](/Directory%20Bruteforce_Tools/README.md)
+    - [Gobuster](/Directory%20Bruteforce_Tools/README.md)
+    - [DirBuster](/Directory%20Bruteforce_Tools/README.md)
+    - [Dirsearch](/Directory%20Bruteforce_Tools/README.md)
 
 - [Email Address](/Email%20Address/)
     - [Discover Email Address](/Email%20Address/Discover%20Email%20Address/)
