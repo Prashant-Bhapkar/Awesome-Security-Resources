@@ -1,0 +1,2 @@
+In this project, we have trained the model over the N-BaIoT dataset,In order to detect intrusion, scrape the features of network, 116 features in total. Refer the link https://archive.ics.uci.edu/ml/datasets/detection_of_IoT_botnet_attacks_N_BaIoT# to understand the features in the dataset.
+Simply store the extracted attributes as a vector,in the corresponding order, and test on the trained model, it will classify the intruded network as malignant and the safe network as benign.
