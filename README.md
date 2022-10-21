@@ -59,7 +59,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [SecurityTrails](/Sub%20Domain%20Enumeration/README.md)
     - [SubFinder](/Sub%20Domain%20Enumeration/README.md)
     - [Sublist3r](/Sub%20Domain%20Enumeration/README.md)
- 
+    - [Amass](/Sub%20Domain%20Enumeration/README.md)
 - [Vulnerability Attacks](/Attacks/README.md)
     - [Clickjacking](/Attacks/README.md)
     - [CORS](/Attacks/README.md)
