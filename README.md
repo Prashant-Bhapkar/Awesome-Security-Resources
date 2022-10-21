@@ -28,6 +28,7 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     
 - [Network Scanner](/Network%20Scanner/)
     - [Advanced Ip Scanner](/Network%20Scanner/README.md)
+    - -[Angry IP Scanner](/Network%20Scanner/README.md)
     - [Airbash](/Network%20Scanner/README.md)
     - [Bettercap](/Network%20Scanner/README.md)
     - [Metasploit Framework](/Network%20Scanner/README.md)
