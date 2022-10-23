@@ -20,3 +20,5 @@
 [@ProjectDiscovery](https://github.com/projectdiscovery)
 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) -  Sublist3r is a multi-threaded sub-domain enumeration tool for penetration testers by [@aboul3la](https://github.com/aboul3la)
+
+- [Subdomain enumeration Automation]() - Run this scirpt and find your Subdomain
