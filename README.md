@@ -46,6 +46,9 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [John the Ripper](/Password%20Attacking%20Tools/README.md)
     - [Ncrack](/Password%20Attacking%20Tools/README.md)
     - [Ophcrack](/Password%20Attacking%20Tools/README.md)
+
+- [Script](/Script/README.md)
+    - [Automatic Subdomain Enumeration](/Script/SubdomainScript)
     
 - [Search Engine](/Search%20Engine/)
     - [Dehashed](/Search%20Engine/README.md)
