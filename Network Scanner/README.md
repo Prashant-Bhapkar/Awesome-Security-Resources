@@ -10,6 +10,8 @@
 
 - [Nessus](https://www.tenable.com/downloads/nessus?loginAttempted=true) - Nessus today is available with 70,000+ plug-ins and services/functionalities such as malware detection, web application scanning, and system configuration check, etc.
 
+- [Openness](https://github.com/s4e-io/openness) - Open source agentless credentialed vulnerability scanner for Linux and Windows servers.
+
 - [Nikto](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/) - Nikto can perform comprehensive tests against web servers for multiple security threats, including over 6700 potentially dangerous files/programs.
 
 - [Nmap](https://github.com/nmap/nmap) -  Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. [@nmap](https://github.com/nmap/nmap)
