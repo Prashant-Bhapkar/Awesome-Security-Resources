@@ -10,13 +10,13 @@
 
 - [Nessus](https://www.tenable.com/downloads/nessus?loginAttempted=true) - Nessus today is available with 70,000+ plug-ins and services/functionalities such as malware detection, web application scanning, and system configuration check, etc.
 
-- [Nikto](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/) - Nikto can perform comprehensive tests against web servers for multiple security threats, including over 6700 potentially dangerous files/programs.
+- [Nikto](https://github.com/sullo/nikto) - Nikto can perform comprehensive tests against web servers for multiple security threats, including over 6700 potentially dangerous files/programs. [@Article](https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/)
 
 - [Nmap](https://github.com/nmap/nmap) -  Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. [@nmap](https://github.com/nmap/nmap)
 
-- [OWASP ZAP](https://github.com/zaproxy/zaproxy) - Wireshark is a real-time network protocol analyzer that continuously scans network traffic for vulnerabilities and suspicious activities. [@website](https://www.zaproxy.org/)
+- [OWASP ZAP](https://github.com/zaproxy/zaproxy) - OWASP ZAP (Zed Attack Proxy) is a free, open-source web application security scanner that finds vulnerabilities in web applications through automated scans and manual testing as an intercepting proxy. [@website](https://www.zaproxy.org/)
 
-- [Snort3](https://github.com/snort3/snort3) - Snort 3 is the next generation Snort IPS (Intrusion Prevention System.
+- [Snort3](https://github.com/snort3/snort3) - Snort 3 is the next generation Snort IPS (Intrusion Prevention System).
 
 - [Unicornscan](https://www.kali.org/tools/unicornscan/) - Unicornscan is an information gathering and port scanning tool like Nmap that provides asynchronous UDP and TCP scanning. It is a light-weight tool. [@Video](https://www.youtube.com/watch?v=X_DdYUeKS-o)
 
