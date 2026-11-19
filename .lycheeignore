@@ -1,0 +1,5 @@
+# Links excluded from the weekly link check (regex, one per line).
+# Only add sites that work in a browser but block automated checkers.
+
+# Sophos blog: rejects automated HTTP/2 requests
+^https://www\.sophos\.com/
