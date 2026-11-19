@@ -8,4 +8,4 @@
 
 - [Ncrack](https://github.com/nmap/ncrack) - Ncrack is a high-speed network authentication cracking tool. It was built to help companies secure their networks by proactively testing all their hosts and networking devices for poor passwords. Security professionals also rely on Ncrack when auditing their clients. 
 
-- [Ophcrack](https://gitlab.com/objectifsecurite/ophcrack) - A windows password cracker based on the faster time-memory trade-off using rainbow tables. This is an evolution of the original ophcrack 1.0 developed at EPFL. [@Website](https://ophcrack.sourceforge.io/) Ophcrack comes with a Qt Graphical User Interface which runs on Windows, Mac OS X as well as on Unix.
+- [Ophcrack](https://gitlab.com/objectifsecurite/ophcrack) - A windows password cracker based on the faster time-memory trade-off using rainbow tables. This is an evolution of the original ophcrack 1.0 developed at EPFL. Ophcrack comes with a Qt Graphical User Interface which runs on Windows, Mac OS X as well as on Unix. [@Website](https://ophcrack.sourceforge.io/)
