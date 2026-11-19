@@ -1,3 +1,3 @@
 ## Script
 
-- [Subdomain enumeration Automation](/SubdomainScript/) - Run this scirpt and find your Subdomain
+- [Subdomain enumeration Automation](/Script/SubdomainScript/) - Run this script to find subdomains automatically.

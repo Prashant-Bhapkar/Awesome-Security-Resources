@@ -1,0 +1,43 @@
+name: Link Check
+
+on:
+  schedule:
+    - cron: "0 3 * * 1" # every Monday at 03:00 UTC
+  pull_request:
+    paths:
+      - "**.md"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # 403/429 are accepted because many sites block automated requests
+          args: >-
+            --no-progress
+            --root-dir ${{ github.workspace }}
+            --accept 200,206,403,429
+            --max-retries 3
+            --timeout 20
+            --exclude-path CODE_OF_CONDUCT.md
+            --exclude-path .github
+            './**/*.md'
+          fail: ${{ github.event_name == 'pull_request' }}
+
+      - name: Open an issue for broken links
+        if: steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links found
+          content-filepath: ./lychee/out.md
+          labels: broken-links

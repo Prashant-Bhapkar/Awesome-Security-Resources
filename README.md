@@ -1,17 +1,29 @@
 ![](GitHubPreview.png)
 
-# HACKTOBERFEST-2022 🚀
-> Add valuable resources that will help the community.
+# Awesome Security Resources
 
-# 💡Always Welcome For Contribution!!
-Check the contribution [RULES](/CONTRIBUTING.md) 
+[![Last commit](https://img.shields.io/github/last-commit/Prashant-Bhapkar/Awesome-Security-Resources)](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/commits/main)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: MIT](https://img.shields.io/github/license/Prashant-Bhapkar/Awesome-Security-Resources)](LICENSE)
 
-## Vulnerability Assesment and Penetration Testing
+> A curated list of security tools and free learning resources for penetration testers, bug bounty hunters and anyone learning cyber security.
 
-- [Directory Bruteforce Tools](/Directory%20Bruteforce_Tools/README.md)
-    - [Gobuster](/Directory%20Bruteforce_Tools/README.md)
-    - [DirBuster](/Directory%20Bruteforce_Tools/README.md)
-    - [Dirsearch](/Directory%20Bruteforce_Tools/README.md)
+**Contributions are welcome!** Read the [contribution guidelines](CONTRIBUTING.md), then open a pull request, or [suggest a resource](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues/new/choose) by opening an issue.
+
+## Contents
+
+- [Vulnerability Assessment and Penetration Testing](#vulnerability-assessment-and-penetration-testing)
+- [Datasets](#datasets)
+- [Free Learning Resources](#free-learning-resources)
+- [License](#license)
+- [Disclaimer](#disclaimer)
+
+## Vulnerability Assessment and Penetration Testing
+
+- [Directory Bruteforce Tools](/Directory%20Bruteforce%20Tools/README.md)
+    - [DirBuster](/Directory%20Bruteforce%20Tools/README.md)
+    - [Dirsearch](/Directory%20Bruteforce%20Tools/README.md)
+    - [Gobuster](/Directory%20Bruteforce%20Tools/README.md)
 
 - [Email Address](/Email%20Address/)
     - [Discover Email Address](/Email%20Address/Discover%20Email%20Address/)
@@ -38,8 +50,8 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [OWASP ZAP](/Network%20Scanner/README.md)
     - [Snort3](/Network%20Scanner/README.md)
     - [Unicornscan](/Network%20Scanner/README.md)
-    - [Wireshark](/Network%20Scanner/README.md)
     - [WiFi Pumpkin](/Network%20Scanner/README.md)
+    - [Wireshark](/Network%20Scanner/README.md)
   
 - [One-Liner for Bug Bounty](/One-Liner-for-Bug-Bounty/Readme.md)
 
@@ -59,9 +71,9 @@ Check the contribution [RULES](/CONTRIBUTING.md)
     - [Uncover](/Search%20Engine/README.md)
     
 - [Sub Domain Enumeration](/Sub%20Domain%20Enumeration/)
-    - [AssetFinder](/Sub%20Domain%20Enumeration/README.md)
+    - [Altdns](/Sub%20Domain%20Enumeration/README.md)
     - [Amass](/Sub%20Domain%20Enumeration/README.md)
-    - [Attdns](/Sub%20Domain%20Enumeration/README.md)
+    - [AssetFinder](/Sub%20Domain%20Enumeration/README.md)
     - [CRT.sh](/Sub%20Domain%20Enumeration/README.md)
     - [Domain](/Sub%20Domain%20Enumeration/README.md)
     - [SecurityTrails](/Sub%20Domain%20Enumeration/README.md)

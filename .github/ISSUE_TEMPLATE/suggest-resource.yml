@@ -1,0 +1,53 @@
+name: Suggest a resource
+description: Suggest a tool or learning resource to add to the list
+title: "Add <name> to <section>"
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve the list! Please check that the resource is not already listed.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g. Trivy
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official link
+      description: The official repository or website (not a fork or mirror).
+      placeholder: https://github.com/aquasecurity/trivy
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Directory Bruteforce Tools
+        - Email Address
+        - Identify Web Technologies
+        - Network Scanner
+        - Password Attacking Tools
+        - Search Engine
+        - Sub Domain Enumeration
+        - Vulnerability Attacks
+        - Free Learning Resources
+        - Other / new section
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do and why is it useful?
+      description: One or two sentences. This may be used as the entry's description.
+    validations:
+      required: true
+  - type: checkboxes
+    id: pr
+    attributes:
+      label: Contribution
+      options:
+        - label: I'd like to open the pull request for this myself

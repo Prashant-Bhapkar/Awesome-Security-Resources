@@ -4,6 +4,8 @@
 
 - [Airbash](https://github.com/tehw0lf/airbash) - Airbash is a POSIX-compliant, fully automated WPA PSK PMKID and handshake capture script aimed at penetration testing. It is compatible with Bash and Android Shell (tested on Kali Linux and Cyanogenmod 10.2) and uses aircrack-ng to scan for clients that are currently connected to access points (AP).
 
+- [Angry IP Scanner](https://github.com/angryip/ipscan) - It is an open-source and cross-platform network scanner designed to be fastest and simplest GUI based IP scanner. [@website](https://angryip.org/)
+
 - [Bettercap](https://github.com/bettercap/bettercap) - bettercap is a powerful, easily extensible and portable framework written in Go which aims to offer to security researchers, red teamers and reverse engineers an easy to use, all-in-one solution with all the features they might possibly need for performing reconnaissance and attacking WiFi networks, Bluetooth Low Energy devices, wireless HID devices and Ethernet networks.
 
 - [Metasploit Framework](https://github.com/rapid7/metasploit-framework) - The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.[@rapid7](https://github.com/rapid7)
@@ -23,5 +25,3 @@
 - [WiFi Pumpkin](https://github.com/P0cL4bs/wifipumpkin3) - wifipumpkin3 is powerful framework for rogue access point attack, written in Python, that allow and offer to security researchers, red teamers and reverse engineers to mount a wireless network to conduct a man-in-the-middle attack.
 
 - [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is a real-time network protocol analyzer that continuously scans network traffic for vulnerabilities and suspicious activities. [@wireshark](https://github.com/wireshark)
-
-- [Angry IP scanner](https://github.com/angryip/ipscan) - It is an open-source and cross-platform network scanner designed to be fastest and simplest GUI based IP scanner. [@website](https://angryip.org/)
