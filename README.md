@@ -1,12 +1,10 @@
-![Awesome Security Resources banner](GitHubPreview.png)
-
 # Awesome Security Resources
 
 [![Last commit](https://img.shields.io/github/last-commit/Prashant-Bhapkar/Awesome-Security-Resources)](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/commits/main)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/github/license/Prashant-Bhapkar/Awesome-Security-Resources)](LICENSE)
 
-> A curated list of security tools and free learning resources for penetration testers, bug bounty hunters, defenders and anyone learning cyber security.
+> A curated list of security tools and free learning resources for every area of security: web, mobile, cloud, AI and agents, penetration testing, vulnerability research, bug bounty and defense. For beginners and professionals alike.
 
 **Contributions are welcome!** Read the [contribution guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md), then open a pull request, or [suggest a resource](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues/new/choose). New here? Pick a [good first issue](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
@@ -24,7 +22,7 @@
   - [Cloud Security](#cloud-security)
   - [Containers & Kubernetes](#containers--kubernetes)
   - [AppSec & DevSecOps](#appsec--devsecops)
-  - [AI & LLM Security](#ai--llm-security)
+  - [AI, LLM & Agent Security](#ai-llm--agent-security)
   - [Mobile Security](#mobile-security)
 - **Defensive Security**
   - [Blue Team & Detection](#blue-team--detection)
@@ -143,7 +141,7 @@ _Nothing here yet. [Help add the first entries!](https://github.com/Prashant-Bha
 
 _Nothing here yet. [Help add the first entries!](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)_
 
-### AI & LLM Security
+### AI, LLM & Agent Security
 
 _Nothing here yet. [Help add the first entries!](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)_
 
