@@ -1,4 +1,4 @@
-![](GitHubPreview.png)
+![Awesome Security Resources banner](GitHubPreview.png)
 
 # Awesome Security Resources
 
@@ -8,7 +8,7 @@
 
 > A curated list of security tools and free learning resources for penetration testers, bug bounty hunters, defenders and anyone learning cyber security.
 
-**Contributions are welcome!** Read the [contribution guidelines](CONTRIBUTING.md), then open a pull request, or [suggest a resource](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues/new/choose). New here? Pick a [good first issue](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
+**Contributions are welcome!** Read the [contribution guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md), then open a pull request, or [suggest a resource](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues/new/choose). New here? Pick a [good first issue](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
 ## Contents
 

@@ -1,4 +1,16 @@
-# Contribution Guidelines
+# Contributing
+
+Thanks for helping improve **Awesome Security Resources**! Every contribution, big or small, is welcome.
+
+By participating in this project, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Ways to contribute
+
+- **Add a resource:** pick a [good first issue](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or add a tool you know.
+- **Suggest a resource:** don't want to make a pull request? [Open a suggestion](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues/new/choose) and someone else can add it.
+- **Fix something:** a broken link, a wrong description or an entry in the wrong place.
+
+## Contribution guidelines
 
 Please make sure your pull request follows these rules before submitting:
 
@@ -12,100 +24,42 @@ Please make sure your pull request follows these rules before submitting:
 - **No harmful content.** Malware builders, DoS/DDoS tools and anything intended to harm others will not be accepted.
 - **One resource per pull request,** with a clear title such as `Add <Tool> to <Section>`.
 
-# How to make your first contribution?
+## How to add a resource
 
-This documentation aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+### Option 1: Edit on GitHub (easiest, no git needed)
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+1. Open [`README.md`](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/blob/main/README.md) and click the **pencil icon** (Edit this file).
+2. GitHub will ask you to **fork** the repository. Click the button to do so.
+3. Add your entry in the right section, in alphabetical order.
+4. Click **Commit changes...**, then **Propose changes**.
+5. Click **Create pull request**, fill in the checklist and submit.
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+If your pull request fixes an issue, write `Closes #<issue number>` in the description.
 
-## Fork this repository
+### Option 2: Using git
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+1. [Fork this repository](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/fork), then clone your fork:
+   ```
+   git clone https://github.com/<your-username>/Awesome-Security-Resources.git
+   cd Awesome-Security-Resources
+   ```
+2. Create a branch:
+   ```
+   git checkout -b add-tool-name
+   ```
+3. Edit `README.md` and add your entry.
+4. Commit and push:
+   ```
+   git add README.md
+   git commit -m "Add <Tool> to <Section>"
+   git push origin add-tool-name
+   ```
+5. Open your fork on GitHub, click **Compare & pull request**, fill in the checklist and submit.
 
-## Clone the repository
+New to git? See GitHub's guide to [setting up git](https://docs.github.com/en/get-started/git-basics/set-up-git) and [contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+## After you submit
 
-Open a terminal and run the following git command:
+A maintainer will review your pull request. If changes are needed, you'll get feedback in the pull request. Just push new commits to the same branch and the pull request updates automatically. Once approved, it will be merged into `main`.
 
-```
-git clone "url you just copied"
-```
-
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
-For example:
-
-```
-git clone https://github.com/this-is-you/Awesome-Security-Resources.git
-```
-
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
-
-## Create a branch
-
-Change to the repository directory on your computer (if you are not already there):
-
-```
-cd Awesome-Security-Resources
-```
-
-Now create a branch using the `git checkout` command:
-
-```
-git checkout -b your-new-branch-name
-```
-
-For example:
-
-```
-git checkout -b add-new-file
-```
-
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
-
-## Make necessary changes and commit those changes
-
-Now open add or edit file in a text editor. Add code for any existing algorithm in other language or add some new algorithms. Make sure to update correspond README.md file if needed. Now, save the file.
-
-- **Note:**
-If there are any Screenshot/Image then size should be 1500 * 800 
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
-Add those changes to the branch you just created using the `git add` command:
-
-```
-git add "name of the file you add or edit"
-```
-
-Now commit those changes using the `git commit` command:
-
-```
-git commit -m "Add message for the change"
-```
-
-## Push changes to GitHub
-
-Push your changes using the command `git push`:
-
-```
-git push origin <add-your-branch-name>
-```
-
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
-
-## Submit your changes for review
-
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
-
-Now submit the pull request.
-
-Soon after reviewing all your changes will be merged into the master branch of this project. You will get a notification email once the changes have been merged.
-
-## Where to go from here?
-
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+Thank you for contributing!
