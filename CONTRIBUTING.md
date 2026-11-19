@@ -5,7 +5,7 @@ Please make sure your pull request follows these rules before submitting:
 - **Use the official source.** Link to the tool's official repository or website, not a fork, mirror or re-upload.
 - **Follow the format.** Each entry is one bullet: `- [Tool Name](link) - Short description of what it does.` Optional extra links go at the end, e.g. `[@Website](link)`.
 - **Keep the list alphabetical** within each section.
-- **Add it in the right place.** Add the entry to the section's `README.md` and, if it is a new tool, to the index in the main `README.md`.
+- **Add it in the right place.** All resources live in the main `README.md`. Add your entry under the section that fits best. If no section fits, open an issue to propose a new one.
 - **No duplicates.** Search the repo first to make sure the resource isn't already listed.
 - **Working links only.** Check that every link opens before submitting.
 - **Prefer established resources.** Tools should be actively maintained and reasonably well known in the community.

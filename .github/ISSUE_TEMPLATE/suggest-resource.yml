@@ -26,15 +26,24 @@ body:
     attributes:
       label: Section
       options:
-        - Directory Bruteforce Tools
-        - Email Address
-        - Identify Web Technologies
-        - Network Scanner
-        - Password Attacking Tools
-        - Search Engine
-        - Sub Domain Enumeration
-        - Vulnerability Attacks
-        - Free Learning Resources
+        - Reconnaissance & OSINT
+        - Network Scanning & Analysis
+        - Web Application Testing
+        - Wireless
+        - Exploitation
+        - Password Attacks
+        - Active Directory
+        - Cloud Security
+        - Containers & Kubernetes
+        - AppSec & DevSecOps
+        - AI & LLM Security
+        - Mobile Security
+        - Blue Team & Detection
+        - Bug Bounty
+        - Courses
+        - CTFs & Practice Labs
+        - News & Blogs
+        - YouTube Channels
         - Other / new section
     validations:
       required: true
