@@ -23,3 +23,5 @@
 - [WiFi Pumpkin](https://github.com/P0cL4bs/wifipumpkin3) - wifipumpkin3 is powerful framework for rogue access point attack, written in Python, that allow and offer to security researchers, red teamers and reverse engineers to mount a wireless network to conduct a man-in-the-middle attack.
 
 - [Wireshark](https://github.com/wireshark/wireshark) - Wireshark is a real-time network protocol analyzer that continuously scans network traffic for vulnerabilities and suspicious activities. [@wireshark](https://github.com/wireshark)
+
+- [Angry IP scanner](https://github.com/angryip/ipscan) - It is an open-source and cross-platform network scanner designed to be fastest and simplest GUI based IP scanner. [@website](https://angryip.org/)
