@@ -139,7 +139,7 @@ _Nothing here yet. [Help add the first entries!](https://github.com/Prashant-Bha
 
 ### AppSec & DevSecOps
 
-_Nothing here yet. [Help add the first entries!](https://github.com/Prashant-Bhapkar/Awesome-Security-Resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)_
+- [VibeShield & Vibe Security Checklist](https://github.com/zColdWater/vibe-security-checklist) - MIT pre-launch AppSec checklist, 8 copy-paste security header & Supabase/Firebase RLS templates, zero-dependency local bundle secret scanner, and free passive 116-check live URL audit.
 
 ### AI, LLM & Agent Security
 
